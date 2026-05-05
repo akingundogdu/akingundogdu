@@ -9,7 +9,7 @@
 
 I've spent **10+ years** shipping production systems—from internal ops platforms and large microservice fleets to creator-scale products used by **millions**. I gravitate toward **backend-heavy full‑stack** work: scalable APIs, data layers on AWS, and UIs that stay fast under real traffic. Lately I spend as much time **designing architectures and orchestrating AI tools** as writing code by hand—still with the same bar: **reliable, observable, production‑ready** software.
 
-Today I'm focused on **AI‑native experiences** (real‑time coaching, analytics, and native clients) while keeping one foot deep in **PostgreSQL, Nest.js, Next.js**, and **mobile**—Swift, Kotlin/Android, and React Native—depending on what the product needs.
+Today I'm focused on **AI‑native experiences** (real‑time coaching, analytics, and native clients) while keeping one foot deep in **PostgreSQL, Typescript, Nest.js, Next.js, Ruby on Rails**, and **mobile**—Swift, Kotlin/Android, and React Native—depending on what the product needs.
 
 ---
 
