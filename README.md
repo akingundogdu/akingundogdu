@@ -32,6 +32,7 @@ Alongside PianoPal, I've founded and led several products end to end—architect
   * React Native + iOS + Android Native Modules
   * Next.js
   * Nest.js
+  * PostgreSQL
   * AWS
 
 * **[DigitalWisers](https://digitalwisers.com/en)** — **Community platform** for creators and organizations, with an integrated **talent marketplace** so hiring happens where professional relationships already live.
